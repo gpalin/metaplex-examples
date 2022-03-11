@@ -1,1 +1,1 @@
-# metaplex-examples
+# NFT asset examples for upload to devnet
